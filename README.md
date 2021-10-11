@@ -22,7 +22,7 @@ County Votes:
 - Jefferson: 10.5% (38,855)
 - Denver: 82.8% (306,055)
 - Arapahoe: 6.7% (24,801)
-----------------------------
+
 Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
@@ -34,16 +34,14 @@ The election commission has requested some additional data to complete the audit
 - The county with the highest turnout
 
 ## Challenge Summary
-
 Using repetition statements, conditional statements with logical operators, and print statements, print out the candidate and county election results to the command line.
--------------------------
-Largest County Turnout: Denver
--------------------------
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
--------------------------
+The additional analysis and statements written in Python (Script) per the instructions receved shows that:
+
+- Largest County Turnout: Denver
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
+
+## Election-Audit Summary:
+In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
