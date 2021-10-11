@@ -1,7 +1,7 @@
 # Election_analysis
 
 ## Project Overview
-A colorfado Board of Electiuons employee has giuven you the following tasks to complete the election audit fo a recent local congressional election.
+A Colorfado Board of Elections employee has given you the following tasks to complete the election audit fo a recent local congressional election.
 
 1. Calculate the total number of votes cast. 
 2. Get a complete list of candidates who received votes.
@@ -13,19 +13,27 @@ A colorfado Board of Electiuons employee has giuven you the following tasks to c
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Strudio Code, 1.38.1
 
-##Sumarry
+## Sumarry
 The analysis of the election show that:
-- There were "x" votes cash in the elction.
-- The candidates were:
-  - Candidate 1
-  - Candidate 2
-  - Candidate 3
-- The candidate results were:
-  - Candidate 1 received "x%" of the vote and "y" number of votes.
-  - Candidate 2 received "x%" of the vote and "y" number of votes.
-  - Candidate 3 received "x%" of the vote and "y" number of votes.
-- The winner of the election was:
-  - Candidate (1, 2, or 3), who received "x%" of the cote and "y" number of votes.
+1. Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+County Votes:
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)
+-------------------------
+Largest County Turnout: Denver
+-------------------------
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
 
 ## Chalenge Overview
 
