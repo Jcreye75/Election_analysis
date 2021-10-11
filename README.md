@@ -43,5 +43,6 @@ The additional analysis and statements written in Python (Script) per the instru
 - Raymon Anthony Doane: 3.1% (11,606)
 
 ## Election-Audit Summary:
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+As business proposal. This Python script can be modified as follows in order to be use on any election:
+1. Between lines 8 and 11, it is obtained the 
 
