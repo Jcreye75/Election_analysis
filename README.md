@@ -45,6 +45,7 @@ The additional analysis and statements written in Python (Script) per the instru
 ## Election-Audit Summary:
 As business proposal. This Python script can be modified as follows in order to be use on any election:
 1. Between lines 8 and 11, it is obtained the name and path onf the file used with the original data "cvs file" and the outcome "txt file", if you have other election excerise, you can select the new data only changign the name nad path on the script.
-- ![Theater_Outcomes_vs_Launch](https://github.com/Jcreye75/kickstarter-analysis/blob/aa055c62cbec50b0dd4682f3b484c799746f4d97/resources/Theater_Outcomes_vs_Launch.png) 
+- ![Path_Change](https://github.com/Jcreye75/Election_analysis/blob/436566b7c28658232f3fe1117f64b276014cf79c/Resources/Path_Change.png) 
+2. Please be aware that input data must be on cvs format (this is separated by commas), and the file must contain
 - 
 
