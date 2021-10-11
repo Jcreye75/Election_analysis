@@ -1,7 +1,7 @@
 # Election_analysis
 
 ## Project Overview
-A Colorfado Board of Elections employee has given you the following tasks to complete the election audit fo a recent local congressional election.
+A Colorado Board of Elections employee has given you the following tasks to complete the election audit fo a recent local congressional election.
 
 1. Calculate the total number of votes cast. 
 2. Get a complete list of candidates who received votes.
